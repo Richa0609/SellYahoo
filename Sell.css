@@ -1,0 +1,57 @@
+body{
+    padding-top: 20px;
+}
+
+
+li{
+    list-style-type: none;
+    
+}
+a{
+    text-decoration: none;
+    color: grey;
+}
+li>a:hover{
+    background-color: whitesmoke;
+    color: grey;
+}
+.nav-justified
+{
+    padding: 8px 8px;
+    border-radius: 8px;
+background-color: #eee
+}
+hr{
+    
+    text-decoration: dotted;
+}
+h1{
+    
+    padding-bottom: 20px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    padding-top: 10px;
+}
+.jumbotron
+{
+    text-align: center;
+    padding-top: 10px;
+}
+.button
+{
+    padding-top: 40px;
+}
+.content
+{
+    padding-top: 10px;
+}
+.col-lg-4>h1
+{
+    text-align: center;
+}
+.centro
+{
+    text-align: center;
+}
